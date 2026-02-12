@@ -1,3 +1,15 @@
-# football-analysis
-## football analysis de la premiere league
-pour l'analyse sportive de football de la première ligue anglaise
+# football-analysis-v1
+Projet d'analyse
+# Analyse de Données de Footbal
+## Description
+Ce projet vise à analyser les
+statistiques des buteurs pour prédire les performances futures en utilisant des pages de connexions PHP du projet des rendez-vous du groupe 5.
+
+## Technologies
+
+- PHP
+- CSV
+
+## Crédits
+
+Les données proviennent d'une source open source
