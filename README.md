@@ -14,5 +14,5 @@ statistiques des buteurs pour prédire les performances futures en utilisant des
 Les données proviennent d'une source open source
 
 ## Liens vers les documentations: 
-[branching-strategy]()
-[team-guide]()
+- [branching-strategy](https://github.com/Kmig5/football-analysis/blob/main/docs/branching-strategy.md)
+- [team-guide](https://github.com/Kmig5/football-analysis/blob/main/docs/team-guide.md)
