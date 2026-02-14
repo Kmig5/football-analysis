@@ -11,5 +11,8 @@ statistiques des buteurs pour prédire les performances futures en utilisant des
 - CSV
 
 ## Crédits
-
 Les données proviennent d'une source open source
+
+## Liens vers les documentations: 
+[branching-strategy]()
+[team-guide]()
