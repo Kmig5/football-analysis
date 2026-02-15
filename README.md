@@ -1,4 +1,4 @@
-# football-analysis-v1
+# football-analysis
 Projet d'analyse
 # Analyse de Données de Footbal
 ## Description
